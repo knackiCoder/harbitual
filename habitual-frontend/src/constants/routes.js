@@ -1,0 +1,9 @@
+export const HOME = '/';
+export const SIGN_UP = '/register';
+export const SIGN_IN = '/login';
+export const FORGET_PASSWORD = "/forget-password";
+export const VERIFY_EMAIL = '/verify-email'
+export const LOGOUT = '/logout'
+export const VERIFY_LOGIN = '/verify-login'
+export const ADMIN = '/admin'
+export const ERROR = '/404'
